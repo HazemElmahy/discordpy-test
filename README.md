@@ -12,4 +12,4 @@ Testing
 
 #### 1- Clone
 #### 2-<code>pipenv install</code>
-#### 3- touch "tocken.py" file with a variable "tocken = 'Your Bot Tocken'" 
+#### 3- touch "token.py" file with a variable "token = 'Your Bot Token'" 
