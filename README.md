@@ -9,3 +9,8 @@ Testing
                                                          [__|     \__.'    
 
 </pre>
+
+## 1- Clone
+## 2- 
+<code>pipenv install</code>
+## 3- touch "tocken.py" file with a variable "tocken = 'Your Bot Tocken'" 
